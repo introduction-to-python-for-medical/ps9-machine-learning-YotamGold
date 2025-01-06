@@ -1,2 +1,2 @@
-path: "path_to_model.joblib
+path: "Pyhton_HomeWork9.joblib"
 features: ['DFA', 'PPE']
